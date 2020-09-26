@@ -38,13 +38,13 @@ a:hover{
 a:visited{
     color: black;
 }
-#Nav ul{
+#navigation ul{
     list-style: none;
     padding: 0px;
     margin: 0px;
     text-align: center;
 }
-#Nav li{
+#navigation li{
     display: inline-block;
     margin: 0px 20px;
     font-weight: bold;
@@ -68,18 +68,17 @@ a:visited{
 #content{
     line-height: 20px;
 }
-.b1{
+.big-font{
     font-size: 70px;
     font-weight: 100;
 }
-#sale{
+#shopsale{
     font-weight: 100;
     padding: 1px 20px;
     width: 100px;
     border: solid black 3px;
-    
 }
-.b2{
+.big-font2{
     font-size: 60px;
     font-weight: 100;
 }
@@ -90,4 +89,141 @@ a:visited{
     font-weight: 100;
     line-height: 5px;
     font-size: 30px;
+}
+#featured-content{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.featured-product-box{
+    text-align: center;
+}
+.featured-product-box h1{
+    font-weight: 500;
+}
+#best-sellercontainer{
+    display: flex;
+    justify-content: space-between;
+}
+#featured-sellers img{
+    max-width: 80%;
+}
+#featured-sellers{
+    border-top: solid 1px gray;
+    border-bottom: solid 1px gray;
+    margin: 20px 0px;
+    padding: 20px 0px;
+    text-align: center;
+}
+#SHOPALL{
+    display: flex;
+    justify-content: center;
+}
+#SHOPALL p{
+    display: flex;
+    justify-content: center;
+    max-width: 80px;
+    padding: 15px;
+    border: solid 1px black;
+}
+#Moma_Exclusives{
+    display: flex;
+    text-align: center;
+    padding-top: 22px;
+    justify-content: center
+}
+.moma_exclusives_container_card{
+    margin-top: 50px;
+    max-width: 220px;
+}
+#MoMA_Exclusives_container{
+    display: flex;
+    justify-content: space-between;
+}
+#Discover{
+    display: flex;
+    justify-content: center;
+}
+#discover_left{
+    max-width: 230px;
+    margin-right: 20px;
+}
+#discover_left h1{
+    line-height: 10px;
+}
+#discover_left h2{
+    padding: 20px;
+    border: 2px solid black;
+}
+#footer{
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+#footerright{
+    margin-left: 22px;
+}
+#footerleft a:link{
+    color: white;
+    padding: 8px 20px;
+    border: 2px solid white;
+}
+#footer2{
+    background-color: lightgrey;
+    padding: 20px 0px;
+}
+#footer2 h2{
+    text-align: center;
+}
+#newsletter input{
+    border: none;
+    width: 400px;
+    height: 40px;
+}
+#newsletter{
+    display: flex;
+    justify-content: center;
+}
+.newsletter-form{
+    background-color: white;
+    width: 480px;
+    padding: 10px;
+}
+.newsletter-form button{
+    background-color: white;
+    border: none;
+}
+.links li{
+    list-style: none;
+    font-weight: 700;
+    max-width: 170px;
+    padding-right: 50px;
+    line-height: 25px;
+}
+#link-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+#copyright-container div{
+    display: flex;
+    justify-content: center;
+}
+#copyright-container{
+    display: flex;
+    justify-content: center;
+}
+.copyright{
+    padding-right: 20px;
+}
+#visitmoma a{
+    display: flex;
+    justify-content: center;
+}
+    
+#kids{
+    width: 35%;
+    height: 10%;
 }
