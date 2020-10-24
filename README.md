@@ -1,8 +1,3 @@
-# Homework Do not touch
-
-if you're an outsider and dont know what i do then get out of this repo now
-
-
-
-
-# Sorry if that was harsh lol
+#hey there wanderer
+hey
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bmVKaAV_7-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
