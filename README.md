@@ -1,3 +1,9 @@
 # hey there wanderer
 hey
-[![mah jam](http://img.youtube.com/vi/bmVKaAV_7-A/0.jpg)](http://www.youtube.com/watch?v=bmVKaAV_7-A)
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
