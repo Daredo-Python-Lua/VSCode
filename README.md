@@ -1,3 +1,3 @@
-#hey there wanderer
+# hey there wanderer
 hey
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bmVKaAV_7-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![mah jam](http://img.youtube.com/vi/bmVKaAV_7-A/0.jpg)](http://www.youtube.com/watch?v=bmVKaAV_7-A)
