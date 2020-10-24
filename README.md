@@ -1,2 +1,1 @@
-# hey there wanderer
-hey<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bmVKaAV_7-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://media.discordapp.net/attachments/572080155384741889/769454352263544882/unknown.png?width=585&height=421">
