@@ -1,4 +1,10 @@
 <h1>
     Daredo.
 </h1>
-<img src="https://media.discordapp.net/attachments/572080155384741889/768793168828432384/Screenshot_227.png?width=652&height=421">
+<h2>
+    My latest project:
+</h2>
+<img src="https://media.discordapp.net/attachments/723524063359664128/770896944327032832/Showcase.png">
+<img src="https://cdn.discordapp.com/attachments/769929148713926657/769933940546732072/Showcase.png">
+<img src="https://cdn.discordapp.com/attachments/769929148713926657/769933940546732072/Showcase.png">
+<img src="https://cdn.discordapp.com/attachments/769929148713926657/770190324449804298/Screen_Shot_2020-10-26_at_3.39.59_pm.png">
